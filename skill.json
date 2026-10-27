@@ -1,0 +1,15 @@
+{
+  "name": "genpark-ctrip-crossborder-visa-entry-rules-engine-skill",
+  "version": "1.0.0",
+  "description": "GenPark Ctrip Cross-Border Visa & Entry Rules Engine - Evaluates passport nationality, transit visa waivers (TWOV), and rolling stay duration rules for multi-hop international journeys.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "ctrip",
+    "visa-rules",
+    "cross-border",
+    "twov-china",
+    "mcp"
+  ]
+}
